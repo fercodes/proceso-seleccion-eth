@@ -1,0 +1,10 @@
+#text-input {
+  height: 40px;
+  border-radius: 5px;
+}
+
+#check-btn {
+  height: 40px;
+  border-radius: 25px;
+  background-color: red;
+}
